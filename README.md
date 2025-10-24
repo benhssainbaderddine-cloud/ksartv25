@@ -1,2 +1,1 @@
-# ksartv25
-موقع إخباري محلي
+https://github.com/benhssainbaderddine-cloud/-25-.git
